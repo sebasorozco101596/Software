@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8295c4b9ddff440409a2d1e2b406e07b
+timeCreated: 1510699948
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Humnst777 Blk BT
+  fontNames:
+  - Humnst777 Blk BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4a22ddb52241b744ea24ea4a59d0988b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
